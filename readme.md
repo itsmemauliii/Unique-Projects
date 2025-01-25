@@ -1,8 +1,8 @@
-# Unique Projects - Streamlit App
+# Unique Projects - Personalized Diet Recommendation System
 
 ## Overview
 This is a Streamlit web application designed to showcase unique and innovative projects. The app is accessible at the following link:
-[Unique Projects Streamlit App](https://unique-projects-kee2zd5reswkyesaynewmu.streamlit.app)
+[Personalized Diet Recommendation System](https://unique-projects-kee2zd5reswkyesaynewmu.streamlit.app)
 
 ## Features
 - **User-Friendly Interface:** A clean and intuitive layout for easy navigation.
