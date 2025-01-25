@@ -76,4 +76,4 @@ For any questions or feedback, feel free to contact me:
 
 ---
 
-# Thank you for exploring my Unique Projects app!
+# Thank You For Exploring My Personalized Diet Recommendation System!
