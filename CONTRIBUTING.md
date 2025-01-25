@@ -88,11 +88,8 @@ streamlit-project/
 ├── app.py                     # Main Streamlit app script
 ├── requirements.txt           # Dependencies for the project
 ├── README.md                  # Project documentation
-├── utils.py                   # Helper functions (if applicable)
 ├── .streamlit/                # Streamlit config files
 │   └── config.toml
-├── .gitignore                 # Files/folders to ignore
-└── LICENSE                    # License file
 ```
 
 ---
