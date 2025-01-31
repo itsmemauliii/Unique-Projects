@@ -1,0 +1,10 @@
+{
+  "Data Scientist": [
+    {"title": "Data Science with Python", "link": "https://www.coursera.org/data-science"},
+    {"title": "Machine Learning by Andrew Ng", "link": "https://www.coursera.org/ml-course"}
+  ],
+  "Software Engineer": [
+    {"title": "The Complete Java Developer Course", "link": "https://www.udemy.com/java-course"},
+    {"title": "Web Development Bootcamp", "link": "https://www.udemy.com/web-dev"}
+  ]
+}
