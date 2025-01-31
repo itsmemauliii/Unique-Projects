@@ -1,0 +1,14 @@
+{
+  "Data Scientist": {
+    "skills": ["python", "statistics", "machine learning", "data visualization"],
+    "interests": ["data analysis", "ai", "big data"]
+  },
+  "Software Engineer": {
+    "skills": ["programming", "java", "c++", "web development"],
+    "interests": ["coding", "app development", "problem solving"]
+  },
+  "Product Manager": {
+    "skills": ["communication", "business strategy", "agile methodology"],
+    "interests": ["leadership", "product design", "customer experience"]
+  }
+}
